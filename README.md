@@ -1,4 +1,5 @@
 # ascii-art-reverse
+### [Full description](https://github.com/appak21/01-edu/tree/master/subjects/ascii-art/reverse)
 ### Converts a graphic representation into a text
 
 ```console
@@ -57,4 +58,3 @@ $ go run . --reverse=file.txt
 hello
 $
 ```
-### [Full description](https://github.com/appak21/01-edu/tree/master/subjects/ascii-art/reverse)
