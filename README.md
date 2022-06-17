@@ -43,7 +43,7 @@ $
 ```
 
 ```console
-$ cat file.txt
+$ cat -e file.txt
  _              _   _          $
 | |            | | | |         $
 | |__     ___  | | | |   ___   $
